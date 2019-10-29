@@ -1,5 +1,3 @@
-.mvn/
-./gs-client-side-load-balancing/.idea/
-./gs-client-side-load-balancing/complete/say-hello/target/
-./gs-client-side-load-balancing/complete/user/target/
-.git/
+gs-client-side-load-balancing/.idea/
+gs-client-side-load-balancing/complete/say-hello/target/
+gs-client-side-load-balancing/complete/user/target/
